@@ -1,6 +1,10 @@
 # Paralelismo
 Paralelismo FIB 2023-2024Q2
 
+## Autores
+
+Saúl Vera, Oriol Ramos
+
 ## Prácticas
 Prácticas de la asignatura de paralelismo en la FIB el cuatrimestre de primavera del 23-24.
 
