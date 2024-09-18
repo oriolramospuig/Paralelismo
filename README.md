@@ -8,10 +8,10 @@ Saúl Vera, Oriol Ramos
 ## Prácticas
 Prácticas de la asignatura de paralelismo en la FIB el cuatrimestre de primavera del 23-24.
 
-Notas : 
+Notas:
 
-Prac3 = 10
+Prac3: 10
 
-Prac4 = 9.5
+Prac4: 9.5
 
-Prac5 = 9
+Prac5: 9
